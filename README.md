@@ -7,3 +7,4 @@
   </tr>   
 </table>
 </center>
+<img width=100% src="https://github-profile-trophy.vercel.app/?username=KaziBora&column=7&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000"/>
