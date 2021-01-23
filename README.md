@@ -1,5 +1,4 @@
-### Hujambo 👋, Hapa Kazi Bora tu
-[![Github](https://img.shields.io/github/followers/KaziBora?label=Follow&style=social)](https://github.com/KaziBora) ![](https://komarev.com/ghpvc/?username=KaziBora&label=Views)
+### Hujambo 👋, Hapa Kazi Bora tu :: [![Github](https://img.shields.io/github/followers/KaziBora?label=Follow&style=social)](https://github.com/KaziBora) ![](https://komarev.com/ghpvc/?username=KaziBora&label=Views)
 <center>
 <table>
   <tr>
